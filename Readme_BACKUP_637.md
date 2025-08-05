@@ -1,5 +1,8 @@
-# Hola soy un readme readme
+<<<<<<< HEAD
 # Hola soy un readme eaaa
+=======
+# Hola soy un readme readme
+>>>>>>> conflictBranch
 # segundo cambio
 # cambio en rama1
 

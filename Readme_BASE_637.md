@@ -1,5 +1,4 @@
-# Hola soy un readme readme
-# Hola soy un readme eaaa
+# Hola soy un readme
 # segundo cambio
 # cambio en rama1
 
